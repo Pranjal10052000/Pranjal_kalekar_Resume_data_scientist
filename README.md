@@ -1,5 +1,4 @@
-# Pranjal_kalekar_Resume_data_scientist
-Resume of the best incoming data scientist in the history of data science.
+# Resume of the best incoming data scientist in the history of data science.
 Education
 PRANJAL UMESH KALEKAR
  (857)294-2305 # Kalekar.p@northeastern.edu ï https://www.linkedin.com/in/pranjalkalekar/
